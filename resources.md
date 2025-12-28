@@ -18,7 +18,8 @@ This collaborative resource guide is maintained by healthcare professionals and 
 
 | Name | Location | Services Offered | Contact | Eligibility |
 |------|----------|------------------|---------|-------------|
-| *Add entries here* | | | | |
+| Teen Health Clinic Downtown | 123 Main St, Anytown, USA | HIV testing, PrEP counseling, STI screening, mental health referrals | (555) 123-4567, info@teenhealthdowntown.org | Ages 13-24, sliding scale fees, no insurance required |
+| *Add more entries here* | | | | |
 
 ---
 
